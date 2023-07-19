@@ -1,3 +1,7 @@
+# NFT BAZAR - A Buildspace NFT Project
+
+Programmatically generate your own NFT collection, write + deploy a smart contract in Solidity, and build your own React dApp to let friends connect their wallets and interact w/ your NFTs.
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
@@ -12,4 +16,5 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 # Completed Webapp
+
 https://nft-starter-project--prathmeshaghao.repl.co/
