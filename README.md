@@ -1,6 +1,6 @@
-# NFT BAZAR - A Buildspace NFT Project
+# NFT BAZAR 
 
-Programmatically generate your own NFT collection, write + deploy a smart contract in Solidity, and build your own React dApp to let friends connect their wallets and interact w/ your NFTs.
+Its a NFT based Project which Programmatically generate your own NFT collection, write + deploy a smart contract in Solidity, and build your own React dApp to let friends connect their wallets and interact w/ your NFTs.
 
 # Sample Hardhat Project
 
