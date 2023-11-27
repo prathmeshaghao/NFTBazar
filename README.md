@@ -34,4 +34,4 @@ npx hardhat run scripts/deploy.js
 ```
 # Completed Webapp
 
-https://nft-starter-project--prathmeshaghao.repl.co/
+http://nftbazar.prathmeshaghao.repl.co/
